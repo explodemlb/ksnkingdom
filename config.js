@@ -32,7 +32,7 @@ config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
-config.logo_center = false
+config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
@@ -137,7 +137,7 @@ config.music_random_order = true
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-config.music_volume = 15
+config.music_volume = 10
 
 // Use Gmod volume for the music instead of manual volume
 config.music_gmod_volume = true
@@ -162,7 +162,7 @@ config.messages_random_order = false
 
 // Delay between message changes
 // in milliseconds
-config.messages_delay = 5000
+config.messages_delay = 10000
 
 // Messages fade duration
 // in milliseconds
