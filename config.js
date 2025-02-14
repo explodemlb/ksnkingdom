@@ -129,6 +129,54 @@ config.music_playlist = [
 		name: "Dragon Empress",
 		youtube: "https://www.youtube.com/watch?v=6gtAZIZQCuw",
 	},
+	{
+		name: "Northwind",
+		youtube: "https://www.youtube.com/watch?v=h_3QdRkwyiQ",
+	},
+	{
+		name: "Dance with Dragons",
+		youtube: "https://www.youtube.com/watch?v=eV1xumzX8dE",
+	},
+	{
+		name: "Spirit of the WIld",
+		youtube: "https://www.youtube.com/watch?v=g-jGHbkM8e4",
+	},
+	{
+		name: "The Wolf and the Moon",
+		youtube: "https://www.youtube.com/watch?v=HEf_xrgmuRI",
+	},
+	{
+		name: "The Wolf and the Moon",
+		youtube: "https://www.youtube.com/watch?v=SHs57gSBw6s",
+	},
+	{
+		name: "Winterwolf",
+		youtube: "https://www.youtube.com/watch?v=U62YkXZNs8M",
+	},
+	{
+		name: "Rise of a Kingdom",
+		youtube: "https://www.youtube.com/watch?v=ADzazbh1WG0",
+	},
+	{
+		name: "For the King",
+		youtube: "https://www.youtube.com/watch?v=59Ri26PIOLs",
+	},
+	{
+		name: "Wolf Blood",
+		youtube: "https://www.youtube.com/watch?v=06H_6oI4EK4",
+	},
+	{
+		name: "March of the Horde",
+		youtube: "https://www.youtube.com/watch?v=fxky3Aodjqc",
+	},
+	{
+		name: "March of the Horde",
+		youtube: "https://www.youtube.com/watch?v=fxky3Aodjqc",
+	},
+	{
+		name: "Dwarven Forge",
+		youtube: "https://www.youtube.com/watch?v=qXJCdiCTlLI",
+	},
 ]
 
 // Random music order?
@@ -137,7 +185,7 @@ config.music_random_order = true
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-config.music_volume = 10
+config.music_volume = 5
 
 // Use Gmod volume for the music instead of manual volume
 config.music_gmod_volume = true
